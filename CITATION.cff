@@ -12,16 +12,16 @@ cff-version: "1.2.0"
 type: software
 
 title: Web Mining and Applied NLP 01 Getting Started
-date-released: "2026-03-06"
+date-released: "2026-03-15"
 
 authors:
-  - family-names: Case
-    given-names: Denise M.
+  - family-names: Sethu
+    given-names: Rucmanidevi
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, USA"
 
-repository-code: "https://github.com/denisecase/nlp-02-text-preprocessing"
-url: "https://github.com/denisecase/nlp-02-text-preprocessing"
+repository-code: "https://github.com/RucuAvinash/nlp-02-text-preprocessing"
+url: "https://github.com/RucuAvinash/nlp-02-text-preprocessing"
 license: MIT
 
 abstract: |
