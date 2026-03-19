@@ -56,6 +56,8 @@ Follow the [step-by-step workflow guide](https://denisecase.github.io/pro-analyt
 1. Phase 1. **Start & Run**
 2. Phase 2. **Change Authorship**
 3. Phase 3. **Read & Understand**
+4. Phase 4. **Technical Modifications**
+5. Phase 5. **Apply Skills to a New Problem**
 
 ## Challenges
 
@@ -118,7 +120,7 @@ uvx pre-commit run --all-files
 
 # First, run the module
 # IMPORTANT: Close each figure after viewing so execution continues
-uv run python -m nlp.text_preprocessing_case
+uv run python -m nlp.text_preprocessing_Rucu
 
 # Then, open the notebook.
 # IMPORTANT: Select the kernel and Run All:
@@ -142,4 +144,4 @@ git push -u origin main
 
 ## Example Artifact (Output)
 
-![Word Cloud Example](docs/images/word_cloud_example.png)
+![alt text](image.png)
